@@ -1,3 +1,3 @@
-module github.com/JaisySymuri/go-say-hello
+module github.com/JaisySymuri/go-say-hello/v2
 
 go 1.20
